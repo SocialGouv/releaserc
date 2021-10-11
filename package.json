@@ -1,0 +1,13 @@
+{
+  "name": "releaserc",
+  "version": "1.0.0",
+  "description": "Semantic Release shared configuration",
+  "main": ".releaserc",
+  "files": [
+    ".releaserc"
+  ],
+  "repository": "git@github.com:SocialGouv/releaserc.git",
+  "author": "SocialGouv",
+  "license": "MIT",
+  "private": false
+}
