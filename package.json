@@ -2,9 +2,9 @@
   "name": "@socialgouv/releaserc",
   "version": "1.0.1",
   "description": "Semantic Release shared configuration",
-  "main": ".releaserc",
+  "main": ".releaserc.json",
   "files": [
-    ".releaserc"
+    ".releaserc.json"
   ],
   "publishConfig": {
     "access": "public"
