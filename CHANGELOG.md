@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/SocialGouv/releaserc/compare/v1.0.1...v1.0.2) (2021-10-15)
+
+
+### Bug Fixes
+
+* Use json config format ([770350d](https://github.com/SocialGouv/releaserc/commit/770350d88181dcf4456f9d415e72fd9227e06b4b))
+
 ## [1.0.1](https://github.com/SocialGouv/releaserc/compare/v1.0.0...v1.0.1) (2021-10-11)
 
 
