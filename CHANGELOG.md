@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/SocialGouv/releaserc/compare/v1.0.2...v1.1.0) (2022-10-27)
+
+
+### Features
+
+* support main branch ([dd1fe2a](https://github.com/SocialGouv/releaserc/commit/dd1fe2a3703ecddc3639da439365da7f85b73b46))
+
 ## [1.0.2](https://github.com/SocialGouv/releaserc/compare/v1.0.1...v1.0.2) (2021-10-15)
 
 
