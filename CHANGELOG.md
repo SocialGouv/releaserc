@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/SocialGouv/releaserc/compare/v1.1.0...v1.1.1) (2022-11-14)
+
+
+### Bug Fixes
+
+* dummy ([3428e75](https://github.com/SocialGouv/releaserc/commit/3428e75eeb5cdf6efcdb8788dc0cc5a262b8897a))
+
 # [1.1.0](https://github.com/SocialGouv/releaserc/compare/v1.0.2...v1.1.0) (2022-10-27)
 
 
